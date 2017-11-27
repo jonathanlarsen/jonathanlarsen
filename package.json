@@ -1,0 +1,16 @@
+{
+  "name": "jonathanlarsen",
+  "version": "1.0.0",
+  "description": "Jonathan Larsen",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "cat info.json"
+  },
+  "keywords": [
+    "person",
+    "contact",
+	"jonathanlarsen"
+  ],
+  "author": "Jonathan Larsen",
+  "license": "ISC"
+}
